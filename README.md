@@ -1,1 +1,4 @@
 # OOPs-in-Python
+
+
+Object-Oriented Programming (OOP) in Python allows you to structure your code using classes and objects. Classes act as blueprints defining the properties (attributes) and functionalities (methods) of objects. Inheritance enables you to create new classes (subclasses) that inherit attributes and methods from existing classes (base classes), promoting code reusability and code organization. Encapsulation bundles data and methods within a class, often using access modifiers to control data visibility and protect its integrity. Polymorphism allows objects of different classes (potentially sharing a common base) to respond to the same method call in different ways, leading to flexible and dynamic code behavior. These core principles of OOP in Python help you write maintainable, modular, and reusable code.
